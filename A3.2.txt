@@ -1,0 +1,6 @@
+A3.1(a) This image shows the max-temp.txt file created in the local file system with 10 records
+
+A3.2(b) This image shows the file being tranferred to HDFS using the -put command
+
+A3.2(c) This image shows the changing of permission of the file /user/acadgild/hadoop/max-temp.txt, such that only
+the owner and the group members have r-w-x permissions and others haveonly read permission on the max-temp.txt file
